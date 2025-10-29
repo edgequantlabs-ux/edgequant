@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "name": "edgequant",
+  "workspaces": ["apps/*", "packages/*"],
+  "devDependencies": {}
+}
